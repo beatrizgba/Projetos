@@ -1,6 +1,6 @@
-## 🗺 Meu Portifólio
+# 🗺 Meu Portifólio
 
-# Python
+## Python
 
 | Link do Projeto        | Ferramenta | Descrição do projeto     |
 |------------------------|-------|----------------|
