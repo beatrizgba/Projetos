@@ -11,4 +11,4 @@
 
 | Link do Projeto         | Descrição do projeto     |
 |------------------------|----------------|
-| [Data Cleaning no MySQL]([https://github.com/beatrizgba/Projetos/blob/main/Password_Generator.ipynb](https://github.com/beatrizgba/Projetos/tree/main/Data%20Cleaning%20with%20SQL](https://github.com/beatrizgba/Projetos/tree/main/Data%20Cleaning%20with%20SQL)) | Algoritmo desenvolvido para gerar senhas seguras com base em critérios definidos pelo usuário, como quantidade de dígitos, uso de números, letras maiúsculas e minúsculas.   
+| [Data Cleaning no MySQL] | Algoritmo desenvolvido para gerar senhas seguras com base em critérios definidos pelo usuário, como quantidade de dígitos, uso de números, letras maiúsculas e minúsculas.   
