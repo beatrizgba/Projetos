@@ -11,4 +11,4 @@
 
 | Link do Projeto         | Descrição do projeto     |
 |------------------------|----------------|
-| [Data Cleaning no MySQL](https://github.com/beatrizgba/Projetos/tree/main/Data%20Cleaning%20with%20SQL) | Algoritmo desenvolvido para gerar senhas seguras com base em critérios definidos pelo usuário, como quantidade de dígitos, uso de números, letras maiúsculas e minúsculas.   
+| [Data Cleaning no MySQL](https://github.com/beatrizgba/Projetos/tree/main/Data%20Cleaning%20with%20SQL) | Projeto focado em Data Cleaning utilizando MySQL, envolvendo a remoção de duplicatas, padronização de dados, tratamento de valores nulos e remoção de colunas desnecessárias para preparar uma base de dados. |
