@@ -5,9 +5,9 @@
 | Link do Projeto         | Descrição do projeto     |
 |------------------------|----------------|
 | [Interactive Expense Analyzer](https://github.com/beatrizgba/Projetos/blob/main/Interactive_Expense_Analyzer.ipynb) | O programa recebe dados do usuário, calcula o total de despesas, porcentagem por categoria, identifica os maiores e menores gastos, gera um gráfico visual em texto e salva o relatório em arquivo.   |
-| [Password Generator](https://github.com/beatrizgba/Projetos/blob/main/Password_Generator.ipynb) | Algoritmo desenvolvido para gerar senhas seguras com base em critérios definidos pelo usuário, como quantidade de dígitos, uso de números, letras maiúsculas e minúsculas.   |
-| [To do list](https://github.com/beatrizgba/Projetos/blob/main/To_do_list.ipynb) |  Algoritmo de lista de tarefas que permite adicionar, remover, atualizar e visualizar tarefas de forma simples e interativa. |
 | [Imersão Dados Alura](https://github.com/beatrizgba/imersao_dados_alura) | Projeto desenvolvido durante a Imersão Dados da Alura, com foco em análise exploratória de dados (EDA) e Data Cleaning. |
+| [Password Generator](https://github.com/beatrizgba/Projetos/blob/main/Password_Generator.ipynb) | Algoritmo desenvolvido para gerar senhas seguras com base em critérios definidos pelo usuário, como quantidade de dígitos, uso de números, letras maiúsculas e minúsculas.   |
+
 
 ## 📊 SQL
 
