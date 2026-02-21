@@ -4,7 +4,7 @@
 
 | Link do Projeto         | Descrição do projeto     |
 |------------------------|----------------|
-| [Interactive Expense Analyzer](https://github.com/beatrizgba/Projetos/blob/main/Interactive_Expense_Analyzer.ipynb) | O programa recebe dados do usuário, calcula o total de despesas, porcentagem por categoria, identifica os maiores e menores gastos, gera um gráfico visual em texto e salva o relatório em arquivo.   |
+| [Análise de gastos interativo](https://github.com/beatrizgba/Projetos/blob/main/Interactive_Expense_Analyzer.ipynb) | Projeto em Python voltado para análise de despesas pessoais, com processamento e categorização de dados inseridos pelo usuário. Realiza cálculos agregados, análise percentual por categoria, identificação de maiores e menores gastos e geração de visualizações para interpretação dos dados. O sistema também exporta relatório estruturado com os principais insights financeiros.   |
 | [Imersão Dados Alura](https://github.com/beatrizgba/imersao_dados_alura) | Projeto desenvolvido durante a Imersão Dados da Alura, com foco em análise exploratória de dados (EDA) e Data Cleaning. |
 | [Password Generator](https://github.com/beatrizgba/Projetos/blob/main/Password_Generator.ipynb) | Algoritmo desenvolvido para gerar senhas seguras com base em critérios definidos pelo usuário, como quantidade de dígitos, uso de números, letras maiúsculas e minúsculas.   |
 
