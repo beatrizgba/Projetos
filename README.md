@@ -5,7 +5,7 @@
 | Link do Projeto         | Descrição do projeto     |
 |------------------------|----------------|
 |   [Análise de Gastos Interativo](https://github.com/beatrizgba/Projetos/blob/main/Interactive_Expense_Analyzer.ipynb)   | Projeto em Python voltado para análise de despesas pessoais, com processamento e categorização de dados inseridos pelo usuário. Realiza cálculos agregados, análise percentual por categoria, identificação de maiores e menores gastos e geração de visualizações para interpretação dos dados. O sistema também exporta relatório estruturado com os principais insights financeiros.   |
-| [Imersão Dados Alura](https://github.com/beatrizgba/imersao_dados_alura) | Projeto desenvolvido durante a Imersão Dados da Alura, com foco em análise exploratória de dados (EDA) e Data Cleaning. |
+| [Análise de empregos](https://github.com/beatrizgba/imersao_dados_alura) | Projeto completo de Análise de Dados desenvolvido durante a Imersão Dados da Alura, utilizando Python, Pandas, Plotly e Streamlit. Envolveu etapas de Data Cleaning, Análise Exploratória de Dados (EDA), geração de visualizações interativas e desenvolvimento de aplicação web para exploração dinâmica dos dados e extração de insights. |
 | [Password Generator](https://github.com/beatrizgba/Projetos/blob/main/Password_Generator.ipynb) | Algoritmo desenvolvido para gerar senhas seguras com base em critérios definidos pelo usuário, como quantidade de dígitos, uso de números, letras maiúsculas e minúsculas.   |
 
 
