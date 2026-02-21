@@ -13,5 +13,5 @@
 
 | Link do Projeto         | Descrição do projeto     |
 |------------------------|----------------|
-| [Data Cleaning no MySQL](https://github.com/beatrizgba/Projetos/tree/main/Data%20Cleaning%20with%20SQL) | Projeto de Data Cleaning utilizando MySQL, com foco na preparação de dados para análise. Foram realizadas etapas como remoção de duplicatas, tratamento de valores nulos, padronização de campos, conversão de tipos de dados e exclusão de colunas desnecessárias, garantindo maior consistência e qualidade da base para uso analítico.|
+| [Data Cleaning](https://github.com/beatrizgba/Projetos/tree/main/Data%20Cleaning%20with%20SQL) | Projeto de Data Cleaning utilizando MySQL, com foco na preparação de dados para análise. Foram realizadas etapas como remoção de duplicatas, tratamento de valores nulos, padronização de campos, conversão de tipos de dados e exclusão de colunas desnecessárias, garantindo maior consistência e qualidade da base para uso analítico.|
 | [Análise do Menu de um Restaurante no MySQL](https://github.com/beatrizgba/Projetos/tree/main/Projeto%20SQL%20An%C3%A1lise%20Menu%20Restaurante) | Neste projeto, realizei uma análise exploratória de dados (EDA) para um restaurante utilizando MySQL. |
